@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="72220533_ProgramDataPasien_Netbeans.jnlp">
+  <information>
+    <title>72220533_ProgramDataPasien_Netbeans</title>
+    <vendor>hp</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="72220533_ProgramDataPasien_Netbeans.jar" size="13973" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="72220533_ProgramDataPasien_Netbeans" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="pkg72220533_tts_netbeans.App"  name="72220533_ProgramDataPasien_Netbeans" />
+  <update check="always"/>
+</jnlp>
